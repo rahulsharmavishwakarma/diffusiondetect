@@ -1,6 +1,6 @@
-# DiffusionVision
+# DiffusionDetect
 
-DiffusionVision is a project that combines the power of Stable Diffusion models for image generation with object detection using YOLOv5. This project allows users to generate images based on text prompts using the Stable Diffusion model and then apply object detection to the generated images using YOLOv5.
+DiffusionDetect is a project that combines the power of Stable Diffusion models for image generation with object detection using YOLOv5. This project allows users to generate images based on text prompts using the Stable Diffusion model and then apply object detection to the generated images using YOLOv5.
 
 ## Features
 
