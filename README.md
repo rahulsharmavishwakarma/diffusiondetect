@@ -18,3 +18,28 @@ Install the required libraries by running the following command in your terminal
 
 ```bash
 pip install torch diffusers gradio
+```
+### 2. Clone the project repository by running the following command:
+
+```bash
+git clone github.com/rahulsharmavishwakarma/diffusiondetect.git
+```
+### 3. Run the provided Python script to launch the Gradio interface for image generation and object detection. Navigate to the project directory and run the following command:
+
+```bash
+python app.py
+```
+## Usage
+- Enter a text prompt in the input textbox on the Gradio interface.
+- Click the "Generate" button to create an image based on the prompt.
+- View the generated image and the filtered image with object detection results side by side.
+- Explore different prompts and observe the variations in generated images and object detection outcomes.
+## Dependencies
+-  torch
+-  diffusers
+-  gradio
+-  PIL
+-  ultralytics/yolov5
+## Acknowledgements
+- Stable Diffusion models by StabilityAI
+- YOLOv5 model by Ultralytics
